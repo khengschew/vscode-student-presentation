@@ -15,5 +15,18 @@
   "bugs": {
     "url": "https://github.com/andrew121212/vscode-student-presentation/issues"
   },
-  "homepage": "https://github.com/andrew121212/vscode-student-presentation#readme"
+  "homepage": "https://github.com/andrew121212/vscode-student-presentation#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.10",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.13.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4"
+  }
 }
