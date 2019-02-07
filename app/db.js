@@ -15,12 +15,11 @@ const Blog = mongoose.model('Blog', BlogPost);
 
 const funcs = {
   saveBlog: (blogData) => {
-    if (blogData.author && blogData.title && blogData.body) {
-      return new Blog(blogData).save();
-    }
-    return false;
+    return new Blog(blogData).save();
   },
   getBlogs: () => {
     return Blog.find();
   },
 };
+
+module.exports = funcs;
