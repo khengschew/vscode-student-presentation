@@ -43,6 +43,16 @@
   * Server Side Example
 * VS Live Share (This may be save your life in solo week)
 
+## Notes for Part 2
+* Eslint --init generally a good idea to do this before you open a js file.
+* .gitignore before npm install or vscode will **** bricks
+* CSS Emmet
+  * Emmet is available in other code editors as an extension, but VS code includes it for you.
+* VS Live Share
+* More Debugging 
+  * Questions Please Ask Now
+* General Questions
+
 ****
 
 ## VS code is the best thing ever... {#vscodesync}

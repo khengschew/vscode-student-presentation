@@ -27,6 +27,7 @@ var deepEquals = (obj1, obj2) => {
   let counter = 0;
   for (const key in obj1) {
     if (typeof obj1[key] === 'object' && typeof obj2[key] === 'object') {
+      debugger;
       // If object call function again
       if (deepEquals(obj1[key], obj2[key])) {
         counter += 1;

@@ -15,6 +15,7 @@ const Blog = mongoose.model('Blog', BlogPost);
 
 const funcs = {
   saveBlog: (blogData) => {
+    debugger
     return new Blog(blogData).save();
   },
   getBlogs: () => {
