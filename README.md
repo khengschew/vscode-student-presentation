@@ -68,6 +68,7 @@ But now how do I transfer my amazing settings between my many computers:
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 [VS Code Guid to Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+add link to slideshow
 
 ****
 ## Useful Keyboard Shorcuts {#keyboard}
